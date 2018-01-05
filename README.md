@@ -21,3 +21,6 @@
 * [OAuth20 - part1](http://www.nevatech.com/blog/post/2016/12/01/How-API-Gateways-help-to-integrate-with-OAuth-security-models)
 * [OAuth20 - part2](http://www.nevatech.com/blog/post/2016/12/03/How-API-Gateways-help-to-integrate-with-OAuth-security-models-part-2)
 * [OAuth20 - part3](http://www.nevatech.com/blog/post/2016/12/06/How-API-Gateways-help-to-integrate-with-OAuth-security-models-part-3)
+
+## Documentation
+* [Whitepapers and Datasheets] (http://www.nevatech.com/sentinet-resources)
